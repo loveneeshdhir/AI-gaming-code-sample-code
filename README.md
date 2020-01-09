@@ -1,1 +1,1 @@
-# AI-gaming-code-sample-code
+# AI-gaming-sample-code
